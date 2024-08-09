@@ -24,7 +24,7 @@
    <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://34.201.73.156:8081/repository/Cloud-Gen-Release/</url>
+            <url>http://http://18.212.62.117/:8081/repository/Cloud-Gen-Release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
